@@ -1,0 +1,12 @@
+# Files that must NOT be pushed to Apps Script.
+# generate_template.js is a local Node (docx-js) build script — it uses require()
+# which Apps Script doesn't support and would break every execution.
+generate_template.js
+node_modules/**
+assets/**
+**/*.docx
+**/*.png
+.clasp.json
+.clasprc.json
+.gitignore
+.claspignore
