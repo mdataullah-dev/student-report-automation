@@ -17,7 +17,7 @@ const CONFIG = {
   MASTER_HEADER_ROW: 3,
 
   // Google Doc template (built from the reference report).
-  TEMPLATE_DOC_ID: '12a2wLrnAMH6zRWQwtp7d8STkPL_sQHFgyAhiZ8MSOlc',
+  TEMPLATE_DOC_ID: '1OotuLQ85M0T_SPDdUosROmyC0c6fTPvdkhVflnH33v8',
   // Drive folder "IDP Reports 2026" for generated draft reports.
   OUTPUT_FOLDER_ID: '1WQV3wiu6PCMzlZPZKbppG7TjI607U1Cr',
   // Staff reviewer notified when a draft is ready.
